@@ -322,9 +322,9 @@ LeetCode
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./algorithms/cpp/zigZagConversion/zigZagConversion.cpp)|Easy|
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [Java](./Algorithms/Java/longestPalindrom.java)|Medium|
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./algorithms/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
-|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./Algorithms/Java/Longest Substring Without Repeating Characters.java)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./Algorithms/Java/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [Java](./Algorithms/Java/AddTwoNumbers.java)|Medium|
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./Algorithms/Cpp/Two Sum.cpp)|Easy|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](./Algorithms/Cpp/TwoSum.cpp)|Easy|
 
 
 ###LeetCode Shell
@@ -338,6 +338,7 @@ LeetCode
 |1|[Word Frequency](https://leetcode.com/problems/word-frequency/)| [Bash](./shell/WordFrequency.sh)|Medium|
 
 ###LintCode
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Search in a big sorted array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[Java](./algorithms/java/src/searchInABigSortedArray/searchInABigSortedArray.java)|Medium|
