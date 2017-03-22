@@ -317,7 +317,7 @@ LeetCode
 |11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [C++](./algorithms/cpp/containerWithMostWater/containerWithMostWater.cpp)|Medium|
 |10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [C++](./algorithms/cpp/regularExpressionMatching/regularExpressionMatching.cpp)|Hard|
 |9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [C++](./algorithms/cpp/palindromeNumber/palindromeNumber.cpp)|Easy|
-|8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [C++](./algorithms/cpp/stringToIntegerAtoi/stringToIntegerAtoi.cpp)|Medium|
+|8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [C++](./Algorithms/Cpp/stringToIntegerAtoi/stringToIntegerAtoi.cpp)|Medium|
 |7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [C++](./Algorithms/Cpp/ReverseInteger.cpp)|Easy|
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [C++](./Algorithms/Cpp/ZigZagConversion.cpp)|Medium|
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [Java](./Algorithms/Java/longestPalindrom.java)|Medium|
