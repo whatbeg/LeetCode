@@ -8,6 +8,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | [Python](./Algorithms/Py/ComplexNumberMultiplication.py)|Medium|
+|507|[Perfect Number](https://leetcode.com/problems/perfect-number) | [C++](./Algorithms/Cpp/PerfectNumber.cpp)|Easy|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./algorithms/cpp/totalHammingDistance/totalHammingDistance.cpp)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/addStrings/AddStrings.cpp)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./algorithms/cpp/thirdMaximumNumber/ThirdMaximumNumber.cpp)|Easy|
