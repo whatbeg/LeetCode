@@ -94,7 +94,7 @@ LeetCode
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](./algorithms/cpp/firstBadVersion/FirstBadVersion.cpp), [Java](./algorithms/java/src/firstBadVersion/firstBadVersion.java)|Easy|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)| [C++](./algorithms/cpp/h-Index/h-Index.II.cpp)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/)| [C++](./algorithms/cpp/h-Index/h-Index.cpp)|Medium|
-|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| [C++](./algorithms/cpp/integerToEnglishWords/IntegerToEnglishWords.cpp)|Medium|
+|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| [Java](./Algorithms/Java/IntegerToEnglishWords.java)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)| [C++](./algorithms/cpp/missingNumber/MissingNumber.cpp)|Medium|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./algorithms/cpp/uglyNumber/UglyNumber.II.cpp)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./algorithms/cpp/uglyNumber/UglyNumber.cpp)|Easy|
@@ -314,8 +314,8 @@ LeetCode
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./algorithms/cpp/3SumClosest/3SumClosest.cpp)|Medium|
 |15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [C++](./algorithms/cpp/3Sum/3Sum.cpp)|Medium|
 |14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [C++](./algorithms/cpp/longestCommonPrefix/longestCommonPrefix.cpp)|Easy|
-|13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [C++](./algorithms/cpp/romanToInteger/romanToInteger.cpp)|Easy|
-|12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [C++](./algorithms/cpp/integerToRoman/integerToRoman.cpp)|Medium|
+|13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [Java](./Algorithms/Java/romanToInt.java)|Easy|
+|12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [Java](./Algorithms/Java/IntegertoRoman.java)|Medium|
 |11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [C++](./algorithms/cpp/containerWithMostWater/containerWithMostWater.cpp)|Medium|
 |10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [C++](./algorithms/cpp/regularExpressionMatching/regularExpressionMatching.cpp)|Hard|
 |9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [C++](./Algorithms/Cpp/PalindromeNumber.cpp)|Easy|
